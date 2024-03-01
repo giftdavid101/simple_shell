@@ -5,7 +5,7 @@
  * Return :  1
 */
 
-void displayPrompt(const char *inp){
+void displayUserInp(const char *inp){
     write(STDOUT_FILENO, inp, strlen(inp));
 }
 
