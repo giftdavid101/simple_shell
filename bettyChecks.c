@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <shell.h>
 /**
 *  * main - Function that checks betty
 *   * Return: 0 exits the code
